@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T23:40:00.556Z'
+datePublished: '2016-08-09T23:40:00.550Z'
 sourcePath: _posts/2016-04-16-cuba-on-the-edge-of-change.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
   - revolutionary
 related: []
 author: []
-dateModified: '2016-08-09T23:39:54.163Z'
+dateModified: '2016-08-09T23:39:54.387Z'
 title: Cuba on the Edge of Change
 app_links: []
 publisher:
