@@ -1,4 +1,3 @@
-layout_spectrum: 0.617111895699054
 typography_spectrum: 0.574813169427216
 color:
   brandStrength: 0.7882483215071261
@@ -11,4 +10,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.617111895699054
 name: interaction man
+title: INTERACTION MAN
