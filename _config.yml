@@ -1,0 +1,14 @@
+layout_spectrum: 0.617111895699054
+typography_spectrum: 0.574813169427216
+color:
+  brandStrength: 0.7882483215071261
+  lightness: 0.09874838287942111
+  saturation: 0.492283962899819
+  rhythmicContrast: 0.8184917378239334
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: interaction man
