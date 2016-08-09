@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T23:40:00.556Z'
+datePublished: '2016-08-09T23:40:00.557Z'
 sourcePath: _posts/2016-04-16-treehouse-chocolates-four-drinking-chocolates.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
   - sweet
 related: []
 author: []
-dateModified: '2016-08-09T23:39:55.534Z'
+dateModified: '2016-08-09T23:39:54.494Z'
 title: Treehouse Chocolate's Four Drinking Chocolates
 app_links: []
 publisher:
