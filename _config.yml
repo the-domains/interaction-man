@@ -18,16 +18,16 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/03db3477-4965-4419-8050-3580fb628d55.png
 description: ~ by feeding the obsession ~
 color:
-  saturation: 0.2475832
+  saturation: 0.1143931
   brandStrength: 0.8845327
-  lightness: 0.5408163
+  lightness: 0.198174
   brandColors:
     - '#B1EAF1'
     - '#4DB6AC'
     - '#00559F'
     - '#000000'
     - '#CC3D2F'
-  rhythmicContrast: 0.8179377
-typography_spectrum: 0.6417831
-layout_spectrum: 0.5300752
+  rhythmicContrast: 0.509667
+typography_spectrum: 0.6353384
+layout_spectrum: 0.302363
 name: interaction man
