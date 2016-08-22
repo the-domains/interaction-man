@@ -1,21 +1,33 @@
-typography_spectrum: 0.8748011763673276
-color:
-  brandStrength: 0.6461525142658502
-  lightness: 0.30139515665359795
-  saturation: 0.2683474391233176
-  rhythmicContrast: 0.2723187990486622
-  brandColors:
-    - '#00585F'
-    - '#009393'
-    - '#FFFCC4'
-    - '#F0EDBB'
-    - '#FF3800'
-layout_spectrum: 0.9006561045534909
 author:
   name: David van Ballegooijen
   email: davidvb.private@gmail.com
+title: finding transcendence
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/03db3477-4965-4419-8050-3580fb628d55.png
-name: interaction man
-title: finding transcendence
 description: ~ by feeding the obsession ~
+color:
+  saturation: 0.2475832
+  brandStrength: 0.8845327
+  lightness: 0.5408163
+  brandColors:
+    - '#B1EAF1'
+    - '#4DB6AC'
+    - '#00559F'
+    - '#000000'
+    - '#CC3D2F'
+  rhythmicContrast: 0.8179377
+typography_spectrum: 0.6417831
+layout_spectrum: 0.5300752
+name: interaction man
