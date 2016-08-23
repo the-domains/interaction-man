@@ -1,16 +1,16 @@
-typography_spectrum: 0.6353384
+layout_spectrum: 0.3778901705518365
+typography_spectrum: 0.44786733854562044
 color:
-  saturation: 0.1143931
-  brandStrength: 0.8845327
-  lightness: 0.198174
+  saturation: 0.07915626233443618
+  brandStrength: 0.03270020731724799
+  lightness: 0.6967329387553036
   brandColors:
-    - '#B1EAF1'
-    - '#4DB6AC'
-    - '#00559F'
-    - '#000000'
-    - '#CC3D2F'
-  rhythmicContrast: 0.509667
-layout_spectrum: 0.302363
+    - '#29363B'
+    - '#9AB899'
+    - '#FCCEAB'
+    - '#F2847F'
+    - '#E84B62'
+  rhythmicContrast: 0.21821335703134537
 author:
   name: David van Ballegooijen
   email: davidvb.private@gmail.com
