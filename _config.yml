@@ -1,7 +1,22 @@
+typography_spectrum: 0.4478673385456204
+color:
+  saturation: 0.5547798
+  brandStrength: 0.03270020731724799
+  lightness: 0
+  brandColors:
+    - '#29363B'
+    - '#9AB899'
+    - '#FCCEAB'
+    - '#F2847F'
+    - '#E84B62'
+  rhythmicContrast: 0.5204082
+layout_spectrum: 0
 author:
   name: David van Ballegooijen
   email: davidvb.private@gmail.com
-title: 'BEHOLD: INTERACTION MAN !'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/03db3477-4965-4419-8050-3580fb628d55.png
+name: WELCOME HUMAN
 collections:
   - index:
       path: /
@@ -14,20 +29,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/03db3477-4965-4419-8050-3580fb628d55.png
+title: INTERACTION MAN
 description: DEFENDING USABILITY ACROSS THE GALAXY
-color:
-  saturation: 0.5547798
-  brandStrength: 0.03270020731724799
-  lightness: 0
-  brandColors:
-    - '#29363B'
-    - '#9AB899'
-    - '#FCCEAB'
-    - '#F2847F'
-    - '#E84B62'
-  rhythmicContrast: 0.5204082
-typography_spectrum: 0.4478673385456204
-layout_spectrum: 0
-name: WELCOME HUMAN
