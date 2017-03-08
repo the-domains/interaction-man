@@ -1,22 +1,12 @@
-typography_spectrum: 0.4478673385456204
-color:
-  saturation: 0.5547798
-  brandStrength: 0.03270020731724799
-  lightness: 0
-  brandColors:
-    - '#29363B'
-    - '#9AB899'
-    - '#FCCEAB'
-    - '#F2847F'
-    - '#E84B62'
-  rhythmicContrast: 0.5204082
-layout_spectrum: 0
+name: interactionman.nl
+analytics:
+  twitter: davidvb
+github: true
+description: 'An experiment by David van Ballegooijen, UI/UX Designer'
 author:
   name: David van Ballegooijen
+  url: interactionman.nl
   email: davidvb.private@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/03db3477-4965-4419-8050-3580fb628d55.png
-name: WELCOME HUMAN
 collections:
   - index:
       path: /
@@ -29,5 +19,25 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: INTERACTION MAN
-description: Functional Eye Candy & Enjoyable Usability
+layout_spectrum: 0.2477229232232243
+color:
+  lightness: 0.7243645597842181
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  saturation: 0.01814911635767779
+  brandStrength: 0.4309872066041473
+  rhythmicContrast: 0.7586312099903969
+content: []
+content_rating:
+  adult: false
+typography_spectrum: 0.7268754693769878
+coverPrefs:
+  filter: false
+title: interactionman.nl
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5da90b10-a4af-4ec6-be56-e464144724e1.svg
+opengraph: {}
